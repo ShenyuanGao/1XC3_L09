@@ -15,7 +15,6 @@ course.o: $(SRC_DIR)course.c
 student.o: $(SRC_DIR)student.c
 	$(CC) -c -o $(BUILD_DIR)student.o $(SRC_DIR)student.c
 doxyfile:
-	 
 	doxygen Doxyfile
 	
 
