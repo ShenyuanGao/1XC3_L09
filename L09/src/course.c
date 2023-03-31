@@ -1,3 +1,9 @@
+/**\brief Display
+ *@param
+ *@return
+ *@see 
+ *@note 
+
 #include "course.h"
 #include <stdlib.h>
 #include <stdio.h>
