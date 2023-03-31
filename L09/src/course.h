@@ -1,3 +1,10 @@
+/**
+ * \brief A brief description
+ *
+ * This is a Doxycomment
+ *
+ */
+
 #include "student.h"
 #include <stdbool.h>
  
@@ -14,3 +21,4 @@ void print_course(Course *course);
 Student *top_student(Course* course);
 Student *passing(Course* course, int *total_passing);
 
+/**< A description of someevar in plain english
