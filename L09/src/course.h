@@ -1,8 +1,9 @@
 /**
  * \brief A brief description
- *
  * This is a Doxycomment
- *
+ *@file
+ *@author
+ *@brief
  */
 
 #include "student.h"
